@@ -1,0 +1,7 @@
+Monday, overcast, 60, y, None, None
+Tuesday, overcast, 60, y, None, None
+Wednesday, overcast, 60, y, None, None
+Thursday, overcast, 60, y, None, None
+Friday, clear, 65, n, Liam Davis, MDW
+Saturday, clear, 65, n, Xol Azul Band , MDW
+Sunday, clear, 70, n, Moroccan Sheepherders, MDW
